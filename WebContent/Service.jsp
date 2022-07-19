@@ -355,7 +355,7 @@ body{
 	<div class="box">
 	<ol>
 	<a href="HarmonyHome.jsp">Home&nbsp;&nbsp; &nbsp;</a>
-	<a href="index.html">DashBoard&nbsp;&nbsp; &nbsp;</a>
+	<a href="dashboard.html">DashBoard&nbsp;&nbsp; &nbsp;</a>
 	<a href="Service.jsp">Service&nbsp;&nbsp; &nbsp;</a>
 	<a href="HarmonySignUp2.jsp">SignUp&nbsp;&nbsp; &nbsp;</a>
 	</ol>
