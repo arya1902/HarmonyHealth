@@ -44,7 +44,7 @@ public class HarmonyLoginServlet extends HttpServlet {
 				rd = request.getRequestDispatcher("HarmonyHome.jsp");
 				}else {
 					request.setAttribute("status", "failed");
-					rd = request.getRequestDispatcher("HarmonyLogin.jsp");
+					rd = request.getRequestDispatcher("index.jsp");
 				
 				
 				

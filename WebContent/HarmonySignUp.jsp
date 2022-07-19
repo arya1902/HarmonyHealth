@@ -76,7 +76,7 @@ body{
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pin NO:<input type="text" name="pin" class="text" required="required"><br><br>
 		
 		<input type="submit" value="Sign Up"class="btn">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<a href="HarmonyLogin.jsp" class="link">Login</a>
+		<a href="index.jsp" class="link">Login</a>
 		
 		
 </form>
